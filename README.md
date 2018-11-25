@@ -12,3 +12,5 @@ After traning the testing is done. Logistic regression is used here for the eval
 > 3. Testing Phase
 
 The testing gave an accuracy of 88%, which is a fair accuracy for wine quality detection.
+
+**Team** : Akshay Vijayan _(Roll no: 4)_, Anjali K _(Roll no: 9)_, Anandu R Chandran _(Roll no: 8)_ 
