@@ -1,2 +1,2 @@
-# wine_quality
-RLIMCA369, Elective II - Python Programming Assignment | Machine learning
+# Wine quality analysis using Machine learning
+'''RLIMCA369, Elective II - Python Programming Assignment '''
